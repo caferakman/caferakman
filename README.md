@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Cafer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**caferakman/caferakman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <h2>👨🏻‍💻 &nbsp;About Me </h2>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+🌱 &nbsp;I'm software developer at <a href="https://www.nuevo.com.tr" target="_blank"> Nuevo Softwarehouse </a>. <br>
+:blush: &nbsp;I like my job. 
+ <br>
+.
+ <br>
+.
+ <br>
+.
+ <br>
+ to be continued
+
+<br> <br> 
+[![Linkedin Badge](https://img.shields.io/badge/-caferakman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caferakman)](https://www.linkedin.com/in/caferakman)<p align="left"> <img src="https://komarev.com/ghpvc/?username=caferakman" alt="caferakman" /> </p>
+
